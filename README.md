@@ -45,6 +45,9 @@
 - [Research Paper 1]  (IRJET)
 - [Research Paper 2]  (IJRASET)
 
+### Research Papers:
+- [Chat Room Using Html, Php, CSs, Js, Ajax]
+
 [website]: https://karan-dhiman.github.io/Responsive-Portfolio-Website
 [sublime]: https://www.sublimetext.com/
 [instagram]: https://www.instagram.com/karan_dhiman._
@@ -70,3 +73,4 @@
 [AI for Everyone]: https://drive.google.com/file/d/1ivIg1QWfIZf_pdGKC4vpWdsMK1FXxLYD/view?usp=sharing
 [Research Paper 1]: https://drive.google.com/file/d/1rn01A10YZob2DKMX85Xi10CF3rkvGofp/view?usp=sharing
 [Research Paper 2]: https://drive.google.com/file/d/15X-1CZbSUnRXz4aUoQ8z2nz5FHlDgmeV/view?usp=sharing
+[Chat Room Using Html, Php, CSs, Js, Ajax]: https://arxiv.org/ftp/arxiv/papers/2106/2106.14704.pdf
