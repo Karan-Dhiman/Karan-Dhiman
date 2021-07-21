@@ -34,7 +34,7 @@
 [instagram]: https://www.instagram.com/karan_dhiman._/
 [twitter]: https://twitter.com/karan_dhiman_7
 [linkedin]: https://www.linkedin.com/in/karan-s-dhiman/
-
+[googlescholar]: https://scholar.google.com/citations?user=kKNKmqgAAAAJ&hl=en/
 
 
 
