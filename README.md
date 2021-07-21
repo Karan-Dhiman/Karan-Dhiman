@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://image.flaticon.com/icons/png/512/906/906324.png" />][visualstudio]
+[<img align="left" alt="Sublime" width="26px" src="https://img.icons8.com/fluent/48/000000/sublime-text.png" />" />][sublime]
 [<img align="left" alt="HTML5" width="26px" src="https://image.flaticon.com/icons/png/512/226/226269.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://image.flaticon.com/icons/png/512/732/732190.png" />][css3]
 [<img align="left" alt="JavaScript" width="26px" src="https://image.flaticon.com/icons/png/512/2305/2305893.png" />][javascript]
@@ -28,6 +28,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />][github]
 
 [website]: https://karan-dhiman.github.io/Responsive-Portfolio-Website
+[sublime]: https://www.sublimetext.com/
 [instagram]: https://www.instagram.com/karan_dhiman._
 [twitter]: https://twitter.com/karan_dhiman_7
 [linkedin]: https://www.linkedin.com/in/karan-s-dhiman
