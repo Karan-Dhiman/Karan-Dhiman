@@ -7,18 +7,6 @@
 -  Fun fact: I love listening to music 🎵
 -  I am also learning how to build beautiful websites 🖥
 
-### Connect with me:
-
-[<img align="left" alt="Karan Dhiman | Instagram" width="40px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
-[<img align="left" alt="Karan Dhiman | Twitter" width="40px" src="https://image.flaticon.com/icons/png/512/145/145812.png" />][twitter]
-[<img align="left" alt="Karan Dhiman | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/179/179330.png" />][linkedin]
-[<img align="left" alt="Karan Dhiman | Instagram" width="40px" src="https://img.icons8.com/office/128/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="Karan Dhiman | Google scholar" width="40px" src="https://img.icons8.com/nolan/128/google-scholar.png" />][googlescholar]
-[<img align="left" alt="Karan Dhiman | Research Gate" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/researchgate-3521760-2945204.png" />][researchgate]
-
-<br />
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Sublime" width="30px" src="https://img.icons8.com/fluent/48/000000/sublime-text.png" />][sublime]
@@ -30,6 +18,18 @@
 [<img align="left" alt="C/C++" width="30px" src="https://image.flaticon.com/icons/png/512/541/541574.png" />][c]
 [<img align="left" alt="SQL" width="30px" src="https://image.flaticon.com/icons/png/512/2305/2305934.png" />][sql]
 [<img align="left" alt="GitHub" width="30px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />][github]
+
+<br />
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="Karan Dhiman | Instagram" width="40px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+[<img align="left" alt="Karan Dhiman | Twitter" width="40px" src="https://image.flaticon.com/icons/png/512/145/145812.png" />][twitter]
+[<img align="left" alt="Karan Dhiman | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/179/179330.png" />][linkedin]
+[<img align="left" alt="Karan Dhiman | Instagram" width="40px" src="https://img.icons8.com/office/128/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="Karan Dhiman | Google scholar" width="40px" src="https://img.icons8.com/nolan/128/google-scholar.png" />][googlescholar]
+[<img align="left" alt="Karan Dhiman | Research Gate" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/researchgate-3521760-2945204.png" />][researchgate]
 
 <br />
 <br />
