@@ -32,8 +32,6 @@
 <br />
 <br />
 
----
-
 [website]: https://karan-dhiman.github.io/Responsive-Portfolio-Website/
 [instagram]: https://www.instagram.com/karan_dhiman._/
 [twitter]: https://twitter.com/karan_dhiman_7
