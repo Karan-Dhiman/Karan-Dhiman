@@ -3,8 +3,9 @@
 ## I'm a Student & a Developer 💻
 
 -  Have a look at my personal portfolio [website]!
--  I’m currently pursuing my engineering 📚
--  Fun fact: I love listening to music & build websites 🎵
+-  I am presently pursuing a degree in computer engineering 📚
+-  Fun fact: I love listening to music 🎵
+-  I'm also learning how to build beautiful websites 🖥
 
 ### Connect with me:
 
