@@ -14,6 +14,7 @@
 [<img align="left" alt="Karan Dhiman | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/179/179330.png" />][linkedin]
 [<img align="left" alt="Karan Dhiman | Instagram" width="40px" src="https://img.icons8.com/office/128/000000/facebook-new.png" />][facebook]
 [<img align="left" alt="Karan Dhiman | Google scholar" width="40px" src="https://img.icons8.com/nolan/128/google-scholar.png" />][googlescholar]
+[<img align="left" alt="Karan Dhiman | Research Gate" width="40px" src="https://pics.freeicons.io/uploads/icons/png/9191096581579517872-512.png" />][researchgate]
 
 <br />
 <br />
@@ -51,6 +52,7 @@
 [twitter]: https://twitter.com/karan_dhiman_7
 [linkedin]: https://www.linkedin.com/in/karan-s-dhiman
 [googlescholar]: https://scholar.google.com/citations?user=kKNKmqgAAAAJ&hl=en
+[researchgate]: https://www.researchgate.net/profile/Karan-Dhiman-3
 [visualstudio]: https://visualstudio.microsoft.com
 [html5]: https://www.w3schools.com/html/
 [css3]: https://www.w3schools.com/css/
