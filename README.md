@@ -2,9 +2,9 @@
 
 ## I'm a Student & a Developer 💻
 
-- 🔭 Have a look at my personal portfolio [website]!
-- 🌱 I’m currently pursuing my engineering 📚
-- ⚡ Fun fact: I love listening to music & build websites 🎵
+-  Have a look at my personal portfolio [website]!
+-  I’m currently pursuing my engineering 📚
+-  Fun fact: I love listening to music & build websites 🎵
 
 ### Connect with me:
 
@@ -34,8 +34,7 @@
 [instagram]: https://www.instagram.com/karan_dhiman._/
 [twitter]: https://twitter.com/karan_dhiman_7
 [linkedin]: https://www.linkedin.com/in/karan-s-dhiman/
-[researchgate]:https://www.researchgate.net/profile/Karan-Dhiman-3/
-[googlescholar]: https://scholar.google.com/citations?user=kKNKmqgAAAAJ&hl=en/
+
 
 
 
