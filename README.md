@@ -33,15 +33,16 @@
 <br />
 <br />
 
-### certificates & achievements:
-- [python programming]
--
--
--
--
--
--
--
+### My Certificates & Achievements:
+
+- [Python Programming]  (Internshala)
+- [Web Development Training]  (Internshala)
+- [Python Programming]  (Coursera)
+- [Html5]  (Coursera)
+- [Python Data Structures]  (Coursera)
+- [AI for Everyone]  (Coursera)
+- [Research Paper 1]  (IRJET)
+- [Research Paper 2]  (IJRASET)
 
 [website]: https://karan-dhiman.github.io/Responsive-Portfolio-Website
 [sublime]: https://www.sublimetext.com/
@@ -60,5 +61,10 @@
 [php]: https://www.w3schools.com/php/php_mysql_intro.asp
 [github]: https://github.com/
 [python programming]:https://drive.google.com/file/d/19wqCcn3lNkJklyj4p2sAc-vLQ8ExNORY/view?usp=sharing
-
-
+[Python Training]: https://drive.google.com/file/d/17p7ZsgbwvxD0x8e7WEARzTQ_T1Xp3_Hj/view?usp=sharing
+[Html5]: https://drive.google.com/file/d/1-Ia3Ew7g1JVSLGaRx3vcpvin5vd4t9Qd/view?usp=sharing
+[Web Development Training]: https://drive.google.com/file/d/1cUfYAUEqSUJfiX72C-a9ef2tdj5omQTw/view?usp=sharing
+[Python Data Structures]: https://drive.google.com/file/d/1WR1qR4cFsRgvtzXWm58EgbRvZ1qsGktG/view?usp=sharing
+[AI for Everyone]: https://drive.google.com/file/d/1ivIg1QWfIZf_pdGKC4vpWdsMK1FXxLYD/view?usp=sharing
+[Research Paper 1]: https://drive.google.com/file/d/1rn01A10YZob2DKMX85Xi10CF3rkvGofp/view?usp=sharing
+[Research Paper 2]: https://drive.google.com/file/d/15X-1CZbSUnRXz4aUoQ8z2nz5FHlDgmeV/view?usp=sharing
