@@ -1,4 +1,4 @@
-### Hello Everyone, I'm Karan ✌
+## Hello Everyone, I'm Karan ✌
 
 ## I'm a Student & a Developer 💻
 
