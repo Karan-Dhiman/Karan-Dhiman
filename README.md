@@ -8,11 +8,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Karan Dhiman | Instagram" width="50px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
-[<img align="left" alt="Karan Dhiman | Twitter" width="50px" src="https://image.flaticon.com/icons/png/512/145/145812.png" />][twitter]
-[<img align="left" alt="Karan Dhiman | LinkedIn" width="50px" src="https://image.flaticon.com/icons/png/512/179/179330.png" />][linkedin]
-[<img align="left" alt="Karan Dhiman | Google scholar" width="50px" src="https://img.icons8.com/nolan/128/google-scholar.png" />][googlescholar]
+[<img align="left" alt="Karan Dhiman | Instagram" width="40px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+[<img align="left" alt="Karan Dhiman | Twitter" width="40px" src="https://image.flaticon.com/icons/png/512/145/145812.png" />][twitter]
+[<img align="left" alt="Karan Dhiman | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/179/179330.png" />][linkedin]
+[<img align="left" alt="Karan Dhiman | Google scholar" width="40px" src="https://img.icons8.com/nolan/128/google-scholar.png" />][googlescholar]
 
+<br />
 <br />
 
 ### Languages and Tools:
