@@ -1,4 +1,3 @@
- README.md
 ### Hello Everyone, I'm Karan ✌
 
 ## I'm a Student & a Developer 💻
@@ -13,7 +12,6 @@
 [<img align="left" alt="Karan Dhiman | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
 [<img align="left" alt="Karan Dhiman | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/145/145812.png" />][twitter]
 [<img align="left" alt="Karan Dhiman | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/179/179330.png" />][linkedin]
-[<img align="left" alt="Karan Dhiman | Research Gate" width="22px" src="https://pics.freeicons.io/uploads/icons/png/9191096581579517872-512.png" />][researchgate]
 [<img align="left" alt="Karan Dhiman | Google scholar" width="22px" src="https://image.flaticon.com/icons/png/512/104/104077.png" />][googlescholar]
 
 <br />
