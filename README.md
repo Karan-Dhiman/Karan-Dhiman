@@ -2,13 +2,12 @@
 
 ## I'm a Student & a Developer 💻
 
-- 🔭 Have a look at my personal portfolio wesbite: [website]!
+- 🔭 Have a look at my personal portfolio [website]!
 - 🌱 I’m currently pursuing my engineering 📚
 - ⚡ Fun fact: I love listening to music & build websites 🎵
 
 ### Connect with me:
 
-[<img align="left" alt="website" width="22px" src="https://image.flaticon.com/icons/png/512/2920/2920277.png" />][website]
 [<img align="left" alt="Karan Dhiman | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
 [<img align="left" alt="Karan Dhiman | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/145/145812.png" />][twitter]
 [<img align="left" alt="Karan Dhiman | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/179/179330.png" />][linkedin]
