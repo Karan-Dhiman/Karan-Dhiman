@@ -5,7 +5,7 @@
 -  Have a look at my personal portfolio [website]!
 -  I am presently pursuing a degree in computer engineering 📚
 -  Fun fact: I love listening to music 🎵
--  I'm also learning how to build beautiful websites 🖥
+-  I am also learning how to build beautiful websites 🖥
 
 ### Connect with me:
 
