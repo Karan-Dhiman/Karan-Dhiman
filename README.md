@@ -27,9 +27,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/1199/1199129.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />]
 
-<br />
-<br />
-
 [website]: https://karan-dhiman.github.io/Responsive-Portfolio-Website/
 [instagram]: https://www.instagram.com/karan_dhiman._/
 [twitter]: https://twitter.com/karan_dhiman_7
