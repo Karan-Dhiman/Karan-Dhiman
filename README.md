@@ -19,7 +19,6 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://image.flaticon.com/icons/png/512/906/906324.png" />]
-[<img align="left" alt="Sublime" width="26px" src="https://image.flaticon.com/icons/png/512/226/226269.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://image.flaticon.com/icons/png/512/226/226269.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://image.flaticon.com/icons/png/512/732/732190.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://image.flaticon.com/icons/png/512/2305/2305893.png" />]
