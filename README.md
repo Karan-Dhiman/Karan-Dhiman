@@ -24,7 +24,7 @@
 [<img align="left" alt="PHP" width="26px" src="https://image.flaticon.com/icons/png/512/2721/2721279.png" />][php]
 [<img align="left" alt="Python" width="26px" src="https://image.flaticon.com/icons/png/512/919/919852.png" />][python]
 [<img align="left" alt="C/C++" width="26px" src="https://image.flaticon.com/icons/png/512/541/541574.png" />][c]
-[<img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/512/2305/2305934.png" />][[sql]
+[<img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/512/2305/2305934.png" />][sql]
 [<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />][github]
 
 [website]: https://karan-dhiman.github.io/Responsive-Portfolio-Website
