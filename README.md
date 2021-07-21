@@ -30,6 +30,16 @@
 [<img align="left" alt="SQL" width="30px" src="https://image.flaticon.com/icons/png/512/2305/2305934.png" />][sql]
 [<img align="left" alt="GitHub" width="30px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />][github]
 
+### certificates & achievements:
+- [python programming]
+-
+-
+-
+-
+-
+-
+-
+
 [website]: https://karan-dhiman.github.io/Responsive-Portfolio-Website
 [sublime]: https://www.sublimetext.com/
 [instagram]: https://www.instagram.com/karan_dhiman._
@@ -46,5 +56,6 @@
 [sql]: https://www.w3schools.com/sql/default.Asp
 [php]: https://www.w3schools.com/php/php_mysql_intro.asp
 [github]: https://github.com/
+[python programming]:https://drive.google.com/file/d/19wqCcn3lNkJklyj4p2sAc-vLQ8ExNORY/view?usp=sharing
 
 
