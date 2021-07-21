@@ -11,6 +11,7 @@
 [<img align="left" alt="Karan Dhiman | Instagram" width="40px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
 [<img align="left" alt="Karan Dhiman | Twitter" width="40px" src="https://image.flaticon.com/icons/png/512/145/145812.png" />][twitter]
 [<img align="left" alt="Karan Dhiman | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/179/179330.png" />][linkedin]
+[<img align="left" alt="Karan Dhiman | Instagram" width="40px" src="https://img.icons8.com/office/128/000000/facebook-new.png" />][facebook]
 [<img align="left" alt="Karan Dhiman | Google scholar" width="40px" src="https://img.icons8.com/nolan/128/google-scholar.png" />][googlescholar]
 
 <br />
@@ -31,6 +32,7 @@
 [website]: https://karan-dhiman.github.io/Responsive-Portfolio-Website
 [sublime]: https://www.sublimetext.com/
 [instagram]: https://www.instagram.com/karan_dhiman._
+[facebook]: https://www.facebook.com/karan.dhiman.07/
 [twitter]: https://twitter.com/karan_dhiman_7
 [linkedin]: https://www.linkedin.com/in/karan-s-dhiman
 [googlescholar]: https://scholar.google.com/citations?user=kKNKmqgAAAAJ&hl=en
