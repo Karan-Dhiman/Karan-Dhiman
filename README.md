@@ -17,22 +17,29 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://image.flaticon.com/icons/png/512/906/906324.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://image.flaticon.com/icons/png/512/226/226269.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://image.flaticon.com/icons/png/512/732/732190.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://image.flaticon.com/icons/png/512/2305/2305893.png" />]
-[<img align="left" alt="Python" width="26px" src="https://image.flaticon.com/icons/png/512/919/919852.png" />]
-[<img align="left" alt="C/C++" width="26px" src="https://image.flaticon.com/icons/png/512/541/541574.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/512/2305/2305934.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/1199/1199129.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://image.flaticon.com/icons/png/512/906/906324.png" />][visualstudio]
+[<img align="left" alt="HTML5" width="26px" src="https://image.flaticon.com/icons/png/512/226/226269.png" />][html5]
+[<img align="left" alt="CSS3" width="26px" src="https://image.flaticon.com/icons/png/512/732/732190.png" />][css3]
+[<img align="left" alt="JavaScript" width="26px" src="https://image.flaticon.com/icons/png/512/2305/2305893.png" />][javascript]
+[<img align="left" alt="PHP" width="26px" src="https://image.flaticon.com/icons/png/512/2721/2721279.png" />][php]
+[<img align="left" alt="Python" width="26px" src="https://image.flaticon.com/icons/png/512/919/919852.png" />][python]
+[<img align="left" alt="C/C++" width="26px" src="https://image.flaticon.com/icons/png/512/541/541574.png" />][c]
+[<img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/512/2305/2305934.png" />][[sql]
+[<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />][github]
 
 [website]: https://karan-dhiman.github.io/Responsive-Portfolio-Website
 [instagram]: https://www.instagram.com/karan_dhiman._
 [twitter]: https://twitter.com/karan_dhiman_7
 [linkedin]: https://www.linkedin.com/in/karan-s-dhiman
 [googlescholar]: https://scholar.google.com/citations?user=kKNKmqgAAAAJ&hl=en
-
-
+[visualstudio]: https://visualstudio.microsoft.com
+[html5]: https://www.w3schools.com/html/
+[css3]: https://www.w3schools.com/css/
+[javascript]: https://www.w3schools.com/js/DEFAULT.asp
+[python]: https://www.w3schools.com/python/
+[c]: https://www.tutorialspoint.com/cprogramming/index.htm
+[sql]: https://www.w3schools.com/sql/default.Asp
+[php]: https://www.w3schools.com/php/php_mysql_intro.asp
+[github]: https://github.com/
 
 
