@@ -30,6 +30,9 @@
 [<img align="left" alt="SQL" width="30px" src="https://image.flaticon.com/icons/png/512/2305/2305934.png" />][sql]
 [<img align="left" alt="GitHub" width="30px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />][github]
 
+<br />
+<br />
+
 ### certificates & achievements:
 - [python programming]
 -
