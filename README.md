@@ -10,7 +10,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Sublime" width="30px" src="https://img.icons8.com/fluent/48/000000/sublime-text.png" />][sublime]
-[<img align="left" alt="HTML5" width="30px" src="https://image.flaticon.com/icons/png/512/226/226269.png" />][Html5]
+[<img align="left" alt="HTML5" width="30px" src="https://image.flaticon.com/icons/png/512/226/226269.png" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://image.flaticon.com/icons/png/512/732/732190.png" />][css3]
 [<img align="left" alt="JavaScript" width="30px" src="https://image.flaticon.com/icons/png/512/2305/2305893.png" />][javascript]
 [<img align="left" alt="PHP" width="30px" src="https://image.flaticon.com/icons/png/512/2721/2721279.png" />][php]
@@ -57,7 +57,7 @@
 [googlescholar]: https://scholar.google.com/citations?user=kKNKmqgAAAAJ&hl=en
 [researchgate]: https://www.researchgate.net/profile/Karan-Dhiman-3
 [visualstudio]: https://visualstudio.microsoft.com
-[html5]: https://www.w3schools.com/html/
+[html]: https://www.w3schools.com/html/
 [css3]: https://www.w3schools.com/css/
 [javascript]: https://www.w3schools.com/js/DEFAULT.asp
 [python]: https://www.w3schools.com/python/
