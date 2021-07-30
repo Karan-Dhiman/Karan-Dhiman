@@ -49,6 +49,9 @@
 - [Chat Room using Html, Php, Css, Js, Ajax]
 - [Online Food Ordering Management System]
 
+### Project Presentations:
+- [Chat Room Pptx]
+
 [website]: https://karan-dhiman.github.io/Responsive-Portfolio-Website
 [sublime]: https://www.sublimetext.com/
 [instagram]: https://www.instagram.com/karan_dhiman._
@@ -76,3 +79,4 @@
 [Research Paper 2]: https://drive.google.com/file/d/15X-1CZbSUnRXz4aUoQ8z2nz5FHlDgmeV/view?usp=sharing
 [Chat Room using Html, Php, Css, Js, Ajax]: https://arxiv.org/abs/2106.14704
 [Online Food Ordering Management System]: https://www.ijraset.com/fileserve.php?FID=36835
+[Chat Room Pptx]: http://dx.doi.org/10.13140/RG.2.2.16257.38248
