@@ -6,7 +6,7 @@
 -  I am presently pursuing a degree in computer engineering 📚
 -  Fun fact: I love listening to music 🎵
 -  I am also learning how to build beautiful websites 🖥
--  Check out my wallpapers at [unsplash]!
+-  Check out my wallpapers at [walliply]!
 
 ### Languages and Tools:
 
@@ -58,7 +58,7 @@
 - [Internship Completion at The Sparks Foundation]
 
 [website]: https://karan-dhiman.github.io/Responsive-Portfolio-Website
-[unsplash]: https://unsplash.com/@karandhiman07
+[walliply]: https://sites.google.com/view/walliply/
 [sublime]: https://www.sublimetext.com/
 [instagram]: https://www.instagram.com/karan_dhiman._
 [facebook]: https://www.facebook.com/karan.dhiman.07/
