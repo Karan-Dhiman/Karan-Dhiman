@@ -9,7 +9,9 @@
 -  Check out my wallpapers at [walliply]!
 
 ### Languages and Tools:
-
+[<img align="left" alt="Sublime" width="30px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][VS Code]
+[<img align="left" alt="Sublime" width="30px" src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611084.png?token=exp=1647942120~hmac=a57ce88e6ae62a979929c74e881d3b3c" />][Premiere]
+[<img align="left" alt="Sublime" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />][Illustrator]
 [<img align="left" alt="Sublime" width="30px" src="https://img.icons8.com/fluent/48/000000/sublime-text.png" />][sublime]
 [<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][css3]
@@ -64,6 +66,9 @@
 
 [website]: https://karan-dhiman.github.io/Responsive-Portfolio-Website
 [walliply]: https://sites.google.com/view/walliply/
+[VS Code]: https://code.visualstudio.com/
+[Premiere]: https://www.adobe.com/in/products/premiere-rush.html
+[Illustrator]: https://www.adobe.com/in/products/illustrator.html
 [sublime]: https://www.sublimetext.com/
 [instagram]: https://www.instagram.com/karan_dhiman._
 [facebook]: https://www.facebook.com/karan.dhiman.07/
