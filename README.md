@@ -13,14 +13,14 @@
 [<img align="left" alt="Sublime" width="30px" src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611084.png?token=exp=1647942120~hmac=a57ce88e6ae62a979929c74e881d3b3c" />][Premiere]
 [<img align="left" alt="Sublime" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />][Illustrator]
 [<img align="left" alt="Sublime" width="30px" src="https://img.icons8.com/fluent/48/000000/sublime-text.png" />][sublime]
-[<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
-[<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][css3]
-[<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][javascript]
-[<img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />][php]
-[<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][python]
+[<img align="left" alt="HTML5" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />][html]
+[<img align="left" alt="CSS3" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />][css3]
+[<img align="left" alt="JavaScript" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />][javascript]
+[<img align="left" alt="PHP" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />][php]
+[<img align="left" alt="Python" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />][python]
 [<img align="left" alt="C/C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />][c]
-[<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />][sql]
-[<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />][github]
+[<img align="left" alt="SQL" width="30px" src="https://cdn-icons-png.flaticon.com/512/337/337953.png" />][sql]
+[<img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][github]
 
 <br />
 <br />
@@ -28,9 +28,9 @@
 ### Connect with me:
 
 [<img align="left" alt="Karan Dhiman | Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" />][instagram]
-[<img align="left" alt="Karan Dhiman | Twitter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" alt="Karan Dhiman | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="Karan Dhiman | Instagram" width="40px" src="https://img.icons8.com/office/128/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="Karan Dhiman | Twitter" width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align="left" alt="Karan Dhiman | LinkedIn" width="40px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1647942600~hmac=41ab58e002626936c89b598286eefbb1" />][linkedin]
+[<img align="left" alt="Karan Dhiman | Facebook" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" />][facebook]
 [<img align="left" alt="Karan Dhiman | Google scholar" width="40px" src="https://img.icons8.com/nolan/128/google-scholar.png" />][googlescholar]
 [<img align="left" alt="Karan Dhiman | Research Gate" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/researchgate-3521760-2945204.png" />][researchgate]
 
