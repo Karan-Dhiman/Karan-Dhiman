@@ -11,7 +11,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Sublime" width="30px" src="https://img.icons8.com/fluent/48/000000/sublime-text.png" />][sublime]
-[<img align="left" alt="HTML5" width="30px" src="https://image.flaticon.com/icons/png/512/226/226269.png" />][html]
+[<img align="left" alt="HTML5" width="30px" src="https://icons8.com/icon/20909/html-5" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://image.flaticon.com/icons/png/512/732/732190.png" />][css3]
 [<img align="left" alt="JavaScript" width="30px" src="https://image.flaticon.com/icons/png/512/2305/2305893.png" />][javascript]
 [<img align="left" alt="PHP" width="30px" src="https://image.flaticon.com/icons/png/512/2721/2721279.png" />][php]
