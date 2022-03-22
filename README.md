@@ -11,13 +11,13 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Sublime" width="30px" src="https://img.icons8.com/fluent/48/000000/sublime-text.png" />][sublime]
-[<img align="left" alt="HTML5" width="30px" src="https://icons8.com/icon/20909/html-5" />][html]
-[<img align="left" alt="CSS3" width="30px" src="https://image.flaticon.com/icons/png/512/732/732190.png" />][css3]
-[<img align="left" alt="JavaScript" width="30px" src="https://image.flaticon.com/icons/png/512/2305/2305893.png" />][javascript]
-[<img align="left" alt="PHP" width="30px" src="https://image.flaticon.com/icons/png/512/2721/2721279.png" />][php]
-[<img align="left" alt="Python" width="30px" src="https://image.flaticon.com/icons/png/512/919/919852.png" />][python]
-[<img align="left" alt="C/C++" width="30px" src="https://image.flaticon.com/icons/png/512/541/541574.png" />][c]
-[<img align="left" alt="SQL" width="30px" src="https://image.flaticon.com/icons/png/512/2305/2305934.png" />][sql]
+[<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
+[<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][css3]
+[<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][javascript]
+[<img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px; />][php]
+[<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px; />][python]
+[<img align="left" alt="C/C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px; />][c]
+[<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px; />][sql]
 [<img align="left" alt="GitHub" width="30px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />][github]
 
 <br />
