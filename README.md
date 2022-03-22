@@ -25,7 +25,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Karan Dhiman | Instagram" width="40px" src+"https://cdn-icons-png.flaticon.com/512/733/733558.png" />][instagram]
+[<img align="left" alt="Karan Dhiman | Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" />][instagram]
 [<img align="left" alt="Karan Dhiman | Twitter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="Karan Dhiman | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="Karan Dhiman | Instagram" width="40px" src="https://img.icons8.com/office/128/000000/facebook-new.png" />][facebook]
