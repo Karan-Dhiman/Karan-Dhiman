@@ -9,9 +9,9 @@
 -  Check out my wallpapers at [walliply]!
 
 ### Languages and Tools:
-[<img align="left" alt="Sublime" width="30px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][VS Code]
-[<img align="left" alt="Sublime" width="30px" src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611084.png?token=exp=1647942120~hmac=a57ce88e6ae62a979929c74e881d3b3c" />][Premiere]
-[<img align="left" alt="Sublime" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />][Illustrator]
+[<img align="left" alt="VS Code" width="30px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][VS Code]
+[<img align="left" alt="Adobe Premiere" width="30px" src="https://img.icons8.com/color/344/adobe-premiere-pro.png" />][Premiere]
+[<img align="left" alt="Illustrator" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />][Illustrator]
 [<img align="left" alt="Sublime" width="30px" src="https://img.icons8.com/fluent/48/000000/sublime-text.png" />][sublime]
 [<img align="left" alt="HTML5" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />][css3]
@@ -29,7 +29,7 @@
 
 [<img align="left" alt="Karan Dhiman | Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" />][instagram]
 [<img align="left" alt="Karan Dhiman | Twitter" width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-[<img align="left" alt="Karan Dhiman | LinkedIn" width="40px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1647942600~hmac=41ab58e002626936c89b598286eefbb1" />][linkedin]
+[<img align="left" alt="Karan Dhiman | LinkedIn" width="40px" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
 [<img align="left" alt="Karan Dhiman | Facebook" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" />][facebook]
 [<img align="left" alt="Karan Dhiman | Google scholar" width="40px" src="https://img.icons8.com/nolan/128/google-scholar.png" />][googlescholar]
 [<img align="left" alt="Karan Dhiman | Research Gate" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/researchgate-3521760-2945204.png" />][researchgate]
