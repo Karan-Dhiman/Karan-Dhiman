@@ -3,7 +3,8 @@
 ## I'm a Student & a Developer 💻
 
 -  Have a look at my personal portfolio [website]!
--  I am presently pursuing a degree in computer engineering 📚
+-  Completed my bachelors in computer engineering 📚
+-  Completed my Post-Graduation in Web Development
 -  Fun fact: I love listening to music 🎵
 -  I am also learning how to build beautiful websites 🖥
 -  Check out my wallpapers at [walliply]!
