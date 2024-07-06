@@ -62,6 +62,7 @@
 
 ### Internship:
 - [Internship Completion at The Sparks Foundation]
+- [Web Development Intern at HDFC Ergo Generanm Insurance Company]
 
 ### Project Files:
 - [Chat Room project files]
