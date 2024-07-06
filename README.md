@@ -68,6 +68,7 @@
 
 [website]: https://karan-dhiman.github.io/Responsive-Portfolio-Website
 [walliply]: https://sites.google.com/view/walliply/
+[dribble]: https://dribbble.com/reventon7/
 [VS Code]: https://code.visualstudio.com/
 [Premiere]: https://www.adobe.com/in/products/premiere-rush.html
 [Illustrator]: https://www.adobe.com/in/products/illustrator.html
@@ -103,5 +104,4 @@
 [Online Food Ordering Management System pptx]: 10.13140/RG.2.2.35112.08961
 [Internship Completion at The Sparks Foundation]: https://drive.google.com/file/d/1_d6M4LsuipjONncPUMTrLgXR7fpcX2v3/view?usp=sharing
 [Chat Room project files]: https://drive.google.com/drive/folders/1OANizfTAKLF05GOzu8dPji1aH5VTbMf0?usp=sharing
-[dribble]: https://dribbble.com/reventon7
 
