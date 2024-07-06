@@ -60,9 +60,9 @@
 - [Chat Room pptx]
 - [Online Food Ordering Management System pptx]
 
-### Internship:
-- [Internship Completion at The Sparks Foundation]
-- [Web Development Intern at HDFC Ergo Generanm Insurance Company]
+### Internships / Work:
+- Internship Completion at The Sparks Foundation
+- Web Development Intern at HDFC Ergo Generanm Insurance Company
 
 ### Project Files:
 - [Chat Room project files]
