@@ -1,8 +1,9 @@
 ## Hello Everyone, I'm Karan ✌
 
-## I'm a Student & a Developer 💻
+## I'm a Frontend Designer & Developer 💻
 
--  Have a look at my personal portfolio [website]!
+-  Have a look at my personal portfolio [website]
+-  Checkout my profile at [dribble]
 -  Completed my bachelors in computer engineering 📚
 -  Completed my Post-Graduation in Web Development
 -  Fun fact: I love listening to music 🎵
@@ -102,3 +103,5 @@
 [Online Food Ordering Management System pptx]: 10.13140/RG.2.2.35112.08961
 [Internship Completion at The Sparks Foundation]: https://drive.google.com/file/d/1_d6M4LsuipjONncPUMTrLgXR7fpcX2v3/view?usp=sharing
 [Chat Room project files]: https://drive.google.com/drive/folders/1OANizfTAKLF05GOzu8dPji1aH5VTbMf0?usp=sharing
+[dribble]: https://dribbble.com/reventon7
+
