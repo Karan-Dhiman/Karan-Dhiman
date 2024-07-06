@@ -4,11 +4,11 @@
 
 -  Have a look at my personal portfolio [website]
 -  Checkout my profile at [dribble]
+-  Check out my wallpapers at [walliply]!
+-  I am also learning, building, developing responsive apps & websites 🖥
 -  Completed my bachelors in computer engineering 📚
 -  Completed my Post-Graduation in Web Development
 -  Fun fact: I love listening to music 🎵
--  I am also learning how to build beautiful websites 🖥
--  Check out my wallpapers at [walliply]!
 
 ### Languages and Tools:
 [<img align="left" alt="VS Code" width="30px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][VS Code]
