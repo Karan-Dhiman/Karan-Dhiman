@@ -3,7 +3,7 @@
 ## I'm a Frontend Designer & Developer 💻
 
 -  Have a look at my personal portfolio [website]
--  Checkout my profile at [dribble]
+-  Checkout my profile at [Behance]
 -  Check out my wallpapers at [walliply]!
 -  I am also learning, building, developing responsive apps & websites 🖥
 -  Completed my bachelors in computer engineering 📚
@@ -69,7 +69,7 @@
 
 [website]: https://karan-dhiman.github.io/Responsive-Portfolio-Website
 [walliply]: https://sites.google.com/view/walliply/
-[dribble]: https://dribbble.com/reventon7/
+[Behance]: https://www.behance.net/karandhiman1
 [VS Code]: https://code.visualstudio.com/
 [Premiere]: https://www.adobe.com/in/products/premiere-rush.html
 [Illustrator]: https://www.adobe.com/in/products/illustrator.html
